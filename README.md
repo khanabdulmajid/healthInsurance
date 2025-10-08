@@ -71,8 +71,3 @@ In this project, we:
 
 [![Abdul Majid Khan](https://github.com/khanabdulmajid.png?size=50)](https://github.com/khanabdulmajid) **Abdul Majid Khan** – Project Owner
 
-## Future Improvements
-
-- Integrate with **Django web app** for interactive predictions  
-- Apply **Feature Selection** to enhance performance  
-- Use **SHAP** or **LIME** for interpretability  
