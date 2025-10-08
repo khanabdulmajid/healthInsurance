@@ -69,9 +69,8 @@ In this project, we:
 
 ## 👥 Contributors
 
-## 👥 Contributors
+[![Abdul Majid Khan](https://github.com/khanabdulmajid.png?size=100)](https://github.com/khanabdulmajid)  
+**Abdul Majid Khan** – Project Owner & Developer  
 
-[![Abdul Majid Khan](https://github.com/khanabdulmajid.png?size=50)](https://github.com/khanabdulmajid) **Abdul Majid Khan** – Developer 
-[![Mohd Arqam](https://github.com/mohdarqam.png?size=50)](https://github.com/mohdarqam) **Mohd Arqam** – Contributor
-
-
+[![Mohd Arqam](https://github.com/mohdarqam.png?size=100)](https://github.com/mohdarqam)  
+**Mohd Arqam** – Contributor
