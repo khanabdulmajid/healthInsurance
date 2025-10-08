@@ -1,8 +1,3 @@
-## 👥 Contributors
-
-[![Abdul Majid Khan](https://github.com/khanabdulmajid.png?size=50)](https://github.com/khanabdulmajid) **Abdul Majid Khan** – Project Owner
-
-
 # Medical Expenditure Prediction using MEPS Dataset
 
 This project leverages the **Medical Expenditure Panel Survey (MEPS)** dataset to analyze healthcare expenditure patterns and predict health status outcomes using **Machine Learning techniques**. The goal is to build an end-to-end ML workflow — from data cleaning to model deployment — while addressing **data imbalance** challenges using **ADASYN**.
@@ -71,6 +66,10 @@ In this project, we:
 - Influential features: income, age, number of chronic conditions, insurance status  
 
 ---
+
+## 👥 Contributors
+
+[![Abdul Majid Khan](https://github.com/khanabdulmajid.png?size=50)](https://github.com/khanabdulmajid) **Abdul Majid Khan** – Project Owner
 
 ## Future Improvements
 
