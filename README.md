@@ -1,10 +1,10 @@
-# 🏥 Medical Expenditure Prediction using MEPS Dataset
+# Medical Expenditure Prediction using MEPS Dataset
 
 This project leverages the **Medical Expenditure Panel Survey (MEPS)** dataset to analyze healthcare expenditure patterns and predict health status outcomes using **Machine Learning techniques**. The goal is to build an end-to-end ML workflow — from data cleaning to model deployment — while addressing **data imbalance** challenges using **ADASYN**.
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 
 Healthcare cost prediction and health status assessment are critical for improving medical decision-making, resource allocation, and policy planning.  
 In this project, we:
@@ -18,7 +18,7 @@ In this project, we:
 
 ---
 
-## 🧠 Objectives
+## Objectives
 
 - Analyze patterns in medical expenditures  
 - Identify key factors influencing healthcare costs  
@@ -29,7 +29,7 @@ In this project, we:
 
 ## ⚙️ Tech Stack
 
-- **Languages:** Python 🐍  
+- **Languages:** Python
 - **Libraries:** pandas, numpy, matplotlib, seaborn, scikit-learn, imbalanced-learn, xgboost  
 - **Resampling Technique:** ADASYN  
 - **Deployment Framework:** Django *(in progress)*  
@@ -37,7 +37,7 @@ In this project, we:
 
 ---
 
-## 📊 Workflow
+## Workflow
 
 1. **Data Cleaning**
    - Removed duplicates & handled missing values (median imputation)
@@ -59,7 +59,7 @@ In this project, we:
 
 ---
 
-## 📈 Results & Insights
+## Results & Insights
 
 - Initial imbalance led to poor minority class predictions  
 - **ADASYN** improved class representation and **F1-scores**  
@@ -67,7 +67,7 @@ In this project, we:
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Integrate with **Django web app** for interactive predictions  
 - Apply **Feature Selection** to enhance performance  
